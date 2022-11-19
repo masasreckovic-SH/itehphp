@@ -19,7 +19,7 @@ mysqli_free_result($result);
 <div class="container">
     <div class="row">
         <?php foreach ($employees as $employee) : ?>
-            <div class="col s12 m6 l4 xl3">
+            <div class="col s12 m6 l4 ">
                 <div class="card z-depth-0 radius-card">
                     <img src="img/icon.png" alt="pl" class="icon-card">
                     <div class="card-content center">
