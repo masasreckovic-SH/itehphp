@@ -158,7 +158,8 @@ if (isset($_POST['add'])) {
         }
     }
 </script>
-
+<!--comment>s
+<!-->
 <script>
     function suggestNationality(str = "") {
         if (str.length == 0) {
